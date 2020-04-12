@@ -1,0 +1,457 @@
+2019-07-22 00:13:48,826 INFO  5015 5015 PlatformUtil getPlatformManufacturer: qualcomm
+2019-07-22 00:13:48,880 INFO  5015 5015 TaskProcessor sTaskThread start
+2019-07-22 00:13:48,895 INFO  5015 5015 NetworkUtil networkInfo is null
+2019-07-22 00:13:48,915 INFO  5015 5015 RemoteConsole getLocaleFromCache: ID
+2019-07-22 00:13:48,943 INFO  5015 5015 Global The country code is ID
+2019-07-22 00:13:48,946 DEBUG 5015 5015 VersionUtil isMaster = false
+2019-07-22 00:13:48,959 INFO  5015 5015 DateUtil clearNetTime
+2019-07-22 00:13:48,961 DEBUG 5015 5015 LiteEngine clearUsingPilot
+2019-07-22 00:13:48,966 DEBUG 5015 5015 Global lastVersionCode:5100, currentVersionCode:5100
+2019-07-22 00:13:48,973 DEBUG 5015 5126 OppoRomUpdateUtils loadXmlValues：
+2019-07-22 00:13:48,974 DEBUG 5015 5126 OppoRomUpdateUtils getDataFromProvider
+2019-07-22 00:13:48,987 INFO  5015 5015 MccChangeReceiver onReceive() activity is background mcc:510
+2019-07-22 00:13:48,988 DEBUG 5015 5015 SoftSimController getEnablingPilot: 
+2019-07-22 00:13:48,988 DEBUG 5015 5015 OPPOLiteController getMcc(0) returned: 510
+2019-07-22 00:13:48,988 DEBUG 5015 5015 OPPOLiteController getMcc(1) returned: 510
+2019-07-22 00:13:48,989 DEBUG 5015 5015 MccChangeReceiver mcc = 510,mcc0 = 510,mcc1 = 510,lastNotifyMcc = 510
+2019-07-22 00:13:48,989 DEBUG 5015 5015 MccChangeReceiver parseMcc: mcc change same as before
+2019-07-22 00:13:48,990 DEBUG 5015 5015 VersionUtil isMaster = false
+2019-07-22 00:13:48,991 ERROR 5015 5015 MccChangeReceiver checkLocation: disabled in stable
+2019-07-22 00:13:49,073 DEBUG 5015 5126 OppoRomUpdateUtils cursor is null
+2019-07-22 00:13:49,083 DEBUG 5015 5126 OppoRomUpdateUtils get from local assets
+2019-07-22 00:13:49,084 DEBUG 5015 5126 OppoRomUpdateUtils PilotDisableMccList:[424, 620, 734, 748, 655, 740, 716, 730, 724, 722, 404, 405, 406, 414, 429, 452, 456, 413, 427, 432, 334, 732, 712, 706, 704, 710, 714, 602]
+2019-07-22 00:13:49,085 DEBUG 5015 5126 OppoRomUpdateUtils DisableDialogTypeList：[]
+2019-07-22 00:13:49,085 DEBUG 5015 5126 OppoRomUpdateUtils sAutoOpenPackageSupport=true
+2019-07-22 00:13:49,085 DEBUG 5015 5126 OppoRomUpdateUtils sAutoOpenPackage=true
+2019-07-22 00:13:49,086 DEBUG 5015 5126 OppoRomUpdateUtils sAutoOpenDisableList:[]
+2019-07-22 00:13:49,087 DEBUG 5015 5126 OppoRomUpdateUtils sAutoClosePackageSupport=true
+2019-07-22 00:13:49,087 DEBUG 5015 5126 OppoRomUpdateUtils sSystemSupportApp=true
+2019-07-22 00:13:49,088 DEBUG 5015 5126 OppoRomUpdateUtils sPayPalEnabled:true
+2019-07-22 00:13:49,088 DEBUG 5015 5126 OppoRomUpdateUtils sCalculteSppedTimes:30
+2019-07-22 00:13:49,088 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=districts, type=2
+2019-07-22 00:13:49,088 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=district, type=2
+2019-07-22 00:13:49,089 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts mcc=454
+2019-07-22 00:13:49,089 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,089 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,089 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 113.887327,22.429464 114.451463,22.157661
+2019-07-22 00:13:49,090 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,090 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,090 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 113.996274,22.504877 114.451463,22.429464
+2019-07-22 00:13:49,090 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,091 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,091 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 114.09056,22.532721 114.451463,22.504877
+2019-07-22 00:13:49,091 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,091 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,092 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 114.0759,22.519167 114.09056,22.504877
+2019-07-22 00:13:49,092 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,092 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,097 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 114.160384,22.547395 114.451463,22.532721
+2019-07-22 00:13:49,098 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,098 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,098 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 114.163986,22.556682 114.230981,22.547395
+2019-07-22 00:13:49,099 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,099 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,099 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 114.259546,22.558576 114.451463,22.547395
+2019-07-22 00:13:49,100 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,100 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,100 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 113.846541,22.273523 113.887327,22.198117
+2019-07-22 00:13:49,100 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,101 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=district, type=3
+2019-07-22 00:13:49,101 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,101 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=district, type=2
+2019-07-22 00:13:49,102 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts mcc=455
+2019-07-22 00:13:49,102 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,103 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,103 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 113.560459,22.203551 113.615076,22.112371
+2019-07-22 00:13:49,103 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,103 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,104 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 113.548529,22.168462 113.560674,22.150286
+2019-07-22 00:13:49,104 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,104 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,105 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 113.545646,22.195269 113.560459,22.168462
+2019-07-22 00:13:49,105 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,105 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,106 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 113.540193,22.195269 113.545646,22.175055
+2019-07-22 00:13:49,106 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,106 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,106 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 113.544721,22.216752 113.575192,22.195972
+2019-07-22 00:13:49,107 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,107 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,107 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 113.555195,22.219588 113.568454,22.216752
+2019-07-22 00:13:49,108 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,123 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=district, type=3
+2019-07-22 00:13:49,123 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,123 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=district, type=2
+2019-07-22 00:13:49,124 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts mcc=466
+2019-07-22 00:13:49,124 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,124 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,124 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 118.281556,24.534139 118.497437,24.385763
+2019-07-22 00:13:49,125 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,125 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,125 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 118.218962,24.457786 118.281556,24.403863
+2019-07-22 00:13:49,125 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,126 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,126 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 120.24518,25.342006 122.057314,21.875669
+2019-07-22 00:13:49,126 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,127 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,127 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 119.313242,24.280171 120.24518,22.274669
+2019-07-22 00:13:49,127 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,127 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,128 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 119.899871,26.19115 120.003356,26.132001
+2019-07-22 00:13:49,128 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,128 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:13:49,129 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts 119.953051,26.292773 120.080682,26.19115
+2019-07-22 00:13:49,150 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,151 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=district, type=3
+2019-07-22 00:13:49,151 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:13:49,152 DEBUG 5015 5126 OppoRomUpdateUtils loadDistricts name=districts, type=3
+2019-07-22 00:13:49,152 INFO  5015 5015 MccChangeReceiver onReceive() activity is background mcc:510
+2019-07-22 00:13:49,152 DEBUG 5015 5015 SoftSimController getEnablingPilot: 
+2019-07-22 00:13:49,152 DEBUG 5015 5015 OPPOLiteController getMcc(0) returned: 510
+2019-07-22 00:13:49,152 DEBUG 5015 5015 OPPOLiteController getMcc(1) returned: 510
+2019-07-22 00:13:49,153 DEBUG 5015 5015 MccChangeReceiver mcc = 510,mcc0 = 510,mcc1 = 510,lastNotifyMcc = 510
+2019-07-22 00:13:49,153 DEBUG 5015 5015 MccChangeReceiver parseMcc: mcc change same as before
+2019-07-22 00:13:49,153 DEBUG 5015 5015 VersionUtil isMaster = false
+2019-07-22 00:13:49,153 ERROR 5015 5015 MccChangeReceiver checkLocation: disabled in stable
+2019-07-22 00:13:49,154 DEBUG 5015 5126 RoamingJobService hasPendingJob, jobId = 1, return false
+2019-07-22 00:13:49,154 DEBUG 5015 5126 RoamingJobService hasPendingJob, jobId = 1, return false
+2019-07-22 00:13:50,497 INFO  5015 5015 TimeChangeReceiver onReceive() time changed
+2019-07-22 00:13:50,509 DEBUG 5015 5015 DateUtil saveNetTime 1563729230508;126452
+2019-07-22 00:13:50,510 DEBUG 5015 5015 DateUtil saveTimeCorrectionDelta 0
+2019-07-22 00:13:51,994 WARN  5015 5015 ValidationUtil Invalid orderId : 0
+2019-07-22 00:13:51,994 DEBUG 5015 5015 OrderController getEnablingOrderId 0
+2019-07-22 00:13:51,995 WARN  5015 5015 ValidationUtil Invalid orderId : 0
+2019-07-22 00:13:51,995 INFO  5015 5015 MccChangeReceiver isUseful(): hasActivity[false] hasDisablingOrder[false] hasEnablingOrder[false]
+2019-07-22 00:13:51,995 INFO  5015 5015 MccChangeReceiver onReceive() app exit
+2019-07-22 00:13:52,017 INFO  5015 5015 SoftSimConsole Stop softSimService result: false
+2019-07-22 00:13:52,133 WARN  5015 5015 ValidationUtil Invalid orderId : 0
+2019-07-22 00:13:52,134 DEBUG 5015 5015 OrderController getEnablingOrderId 0
+2019-07-22 00:13:52,134 WARN  5015 5015 ValidationUtil Invalid orderId : 0
+2019-07-22 00:13:52,134 INFO  5015 5015 MccChangeReceiver isUseful(): hasActivity[false] hasDisablingOrder[false] hasEnablingOrder[false]
+2019-07-22 00:13:52,135 INFO  5015 5015 MccChangeReceiver onReceive() app exit
+2019-07-22 00:13:52,144 INFO  5015 5015 SoftSimConsole Stop softSimService result: false
+2019-07-22 00:13:53,514 INFO  5015 5126 TimeChangeReceiver onReceive() app exit
+2019-07-22 00:13:53,521 INFO  5015 5126 SoftSimConsole Stop softSimService result: false
+2019-07-22 00:14:00,337 INFO  5015 5015 NetworkUtil networkInfo state is CONNECTED
+2019-07-22 00:14:00,346 DEBUG 5015 5015 NetworkChangedReceiver mCurNetworkState: 1
+2019-07-22 00:14:31,466 DEBUG 5015 5015 DateUtil saveNetTime 1563729271464;167408
+2019-07-22 00:14:31,466 DEBUG 5015 5015 OPPOLiteController getMcc(0) returned: 510
+2019-07-22 00:14:31,467 DEBUG 5015 5015 OPPOLiteController getMcc(1) returned: 510
+2019-07-22 00:14:31,468 INFO  5015 5126 BootReceiver checkSoftSimStatus()
+2019-07-22 00:14:31,468 INFO  5015 5126 BootReceiver getSoftSimStatus false
+2019-07-22 00:20:38,634 INFO  11647 11647 PlatformUtil getPlatformManufacturer: qualcomm
+2019-07-22 00:20:38,635 INFO  11647 11647 TaskProcessor sTaskThread start
+2019-07-22 00:20:38,635 INFO  11647 11647 NetworkUtil networkInfo state is CONNECTED
+2019-07-22 00:20:38,641 INFO  11647 11647 RemoteConsole getLocaleFromCache: ID
+2019-07-22 00:20:38,649 INFO  11647 11647 Global The country code is ID
+2019-07-22 00:20:38,651 DEBUG 11647 11647 VersionUtil isMaster = false
+2019-07-22 00:20:38,658 DEBUG 11647 11647 Global lastVersionCode:5100, currentVersionCode:5100
+2019-07-22 00:20:38,659 DEBUG 11647 11681 OppoRomUpdateUtils loadXmlValues：
+2019-07-22 00:20:38,660 DEBUG 11647 11681 OppoRomUpdateUtils getDataFromProvider
+2019-07-22 00:20:38,662 DEBUG 11647 11647 RomUpdateReceiver onReceive::action:oppo.intent.action.ROM_UPDATE_CONFIG_SUCCESS
+2019-07-22 00:20:38,664 INFO  11647 11647 NetworkUtil networkInfo state is CONNECTED
+2019-07-22 00:20:38,666 DEBUG 11647 11647 NetworkChangedReceiver mCurNetworkState: 1
+2019-07-22 00:20:38,667 DEBUG 11647 11681 OppoRomUpdateUtils cursor is null
+2019-07-22 00:20:38,668 DEBUG 11647 11681 OppoRomUpdateUtils get from local assets
+2019-07-22 00:20:38,669 DEBUG 11647 11681 OppoRomUpdateUtils PilotDisableMccList:[424, 620, 734, 748, 655, 740, 716, 730, 724, 722, 404, 405, 406, 414, 429, 452, 456, 413, 427, 432, 334, 732, 712, 706, 704, 710, 714, 602]
+2019-07-22 00:20:38,670 DEBUG 11647 11681 OppoRomUpdateUtils DisableDialogTypeList：[]
+2019-07-22 00:20:38,670 DEBUG 11647 11681 OppoRomUpdateUtils sAutoOpenPackageSupport=true
+2019-07-22 00:20:38,670 DEBUG 11647 11681 OppoRomUpdateUtils sAutoOpenPackage=true
+2019-07-22 00:20:38,670 DEBUG 11647 11681 OppoRomUpdateUtils sAutoOpenDisableList:[]
+2019-07-22 00:20:38,670 DEBUG 11647 11681 OppoRomUpdateUtils sAutoClosePackageSupport=true
+2019-07-22 00:20:38,671 DEBUG 11647 11681 OppoRomUpdateUtils sSystemSupportApp=true
+2019-07-22 00:20:38,672 DEBUG 11647 11681 OppoRomUpdateUtils sPayPalEnabled:true
+2019-07-22 00:20:38,673 DEBUG 11647 11681 OppoRomUpdateUtils sCalculteSppedTimes:30
+2019-07-22 00:20:38,673 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=districts, type=2
+2019-07-22 00:20:38,673 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=district, type=2
+2019-07-22 00:20:38,674 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts mcc=454
+2019-07-22 00:20:38,674 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,674 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,674 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 113.887327,22.429464 114.451463,22.157661
+2019-07-22 00:20:38,674 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,674 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,675 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 113.996274,22.504877 114.451463,22.429464
+2019-07-22 00:20:38,675 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,675 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,675 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 114.09056,22.532721 114.451463,22.504877
+2019-07-22 00:20:38,675 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,675 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,675 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 114.0759,22.519167 114.09056,22.504877
+2019-07-22 00:20:38,675 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,676 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,676 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 114.160384,22.547395 114.451463,22.532721
+2019-07-22 00:20:38,676 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,676 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,676 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 114.163986,22.556682 114.230981,22.547395
+2019-07-22 00:20:38,676 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,676 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,676 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 114.259546,22.558576 114.451463,22.547395
+2019-07-22 00:20:38,676 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,677 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,677 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 113.846541,22.273523 113.887327,22.198117
+2019-07-22 00:20:38,677 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,677 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=district, type=3
+2019-07-22 00:20:38,677 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,677 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=district, type=2
+2019-07-22 00:20:38,677 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts mcc=455
+2019-07-22 00:20:38,677 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,677 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,678 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 113.560459,22.203551 113.615076,22.112371
+2019-07-22 00:20:38,678 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,678 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,678 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 113.548529,22.168462 113.560674,22.150286
+2019-07-22 00:20:38,678 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,678 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,678 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 113.545646,22.195269 113.560459,22.168462
+2019-07-22 00:20:38,679 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,679 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,679 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 113.540193,22.195269 113.545646,22.175055
+2019-07-22 00:20:38,679 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,679 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,679 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 113.544721,22.216752 113.575192,22.195972
+2019-07-22 00:20:38,679 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,679 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,679 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 113.555195,22.219588 113.568454,22.216752
+2019-07-22 00:20:38,680 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,680 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=district, type=3
+2019-07-22 00:20:38,680 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,680 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=district, type=2
+2019-07-22 00:20:38,680 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts mcc=466
+2019-07-22 00:20:38,680 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,680 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,681 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 118.281556,24.534139 118.497437,24.385763
+2019-07-22 00:20:38,681 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,681 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,682 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 118.218962,24.457786 118.281556,24.403863
+2019-07-22 00:20:38,682 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,682 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,683 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 120.24518,25.342006 122.057314,21.875669
+2019-07-22 00:20:38,683 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,684 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,684 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 119.313242,24.280171 120.24518,22.274669
+2019-07-22 00:20:38,684 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,685 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,685 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 119.899871,26.19115 120.003356,26.132001
+2019-07-22 00:20:38,685 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,686 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 00:20:38,686 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts 119.953051,26.292773 120.080682,26.19115
+2019-07-22 00:20:38,686 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,686 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=district, type=3
+2019-07-22 00:20:38,686 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 00:20:38,686 DEBUG 11647 11681 OppoRomUpdateUtils loadDistricts name=districts, type=3
+2019-07-22 12:01:36,689 INFO  7656 7656 PlatformUtil getPlatformManufacturer: qualcomm
+2019-07-22 12:01:36,691 INFO  7656 7656 TaskProcessor sTaskThread start
+2019-07-22 12:01:36,691 INFO  7656 7656 NetworkUtil networkInfo state is CONNECTED
+2019-07-22 12:01:36,699 INFO  7656 7656 RemoteConsole getLocaleFromCache: ID
+2019-07-22 12:01:36,725 INFO  7656 7656 Global The country code is ID
+2019-07-22 12:01:36,728 DEBUG 7656 7656 VersionUtil isMaster = false
+2019-07-22 12:01:36,733 INFO  7656 7656 DateUtil clearNetTime
+2019-07-22 12:01:36,735 DEBUG 7656 7656 LiteEngine clearUsingPilot
+2019-07-22 12:01:36,753 DEBUG 7656 7656 Global lastVersionCode:5100, currentVersionCode:5100
+2019-07-22 12:01:36,763 DEBUG 7656 7656 DateUtil saveNetTime 1563771696763;72856
+2019-07-22 12:01:36,765 DEBUG 7656 7656 OPPOLiteController getMcc(0) returned: 510
+2019-07-22 12:01:36,765 DEBUG 7656 7656 OPPOLiteController getMcc(1) returned: 510
+2019-07-22 12:01:36,774 DEBUG 7656 7688 OppoRomUpdateUtils loadXmlValues：
+2019-07-22 12:01:36,776 DEBUG 7656 7688 OppoRomUpdateUtils getDataFromProvider
+2019-07-22 12:01:36,777 INFO  7656 7656 NetworkUtil networkInfo state is CONNECTED
+2019-07-22 12:01:36,779 DEBUG 7656 7656 NetworkChangedReceiver mCurNetworkState: 1
+2019-07-22 12:01:36,821 DEBUG 7656 7688 OppoRomUpdateUtils cursor is null
+2019-07-22 12:01:36,826 DEBUG 7656 7688 OppoRomUpdateUtils get from local assets
+2019-07-22 12:01:36,833 DEBUG 7656 7688 OppoRomUpdateUtils PilotDisableMccList:[424, 620, 734, 748, 655, 740, 716, 730, 724, 722, 404, 405, 406, 414, 429, 452, 456, 413, 427, 432, 334, 732, 712, 706, 704, 710, 714, 602]
+2019-07-22 12:01:36,834 DEBUG 7656 7688 OppoRomUpdateUtils DisableDialogTypeList：[]
+2019-07-22 12:01:36,835 DEBUG 7656 7688 OppoRomUpdateUtils sAutoOpenPackageSupport=true
+2019-07-22 12:01:36,837 DEBUG 7656 7688 OppoRomUpdateUtils sAutoOpenPackage=true
+2019-07-22 12:01:36,838 DEBUG 7656 7688 OppoRomUpdateUtils sAutoOpenDisableList:[]
+2019-07-22 12:01:36,839 DEBUG 7656 7688 OppoRomUpdateUtils sAutoClosePackageSupport=true
+2019-07-22 12:01:36,841 DEBUG 7656 7688 OppoRomUpdateUtils sSystemSupportApp=true
+2019-07-22 12:01:36,842 DEBUG 7656 7688 OppoRomUpdateUtils sPayPalEnabled:true
+2019-07-22 12:01:36,844 DEBUG 7656 7688 OppoRomUpdateUtils sCalculteSppedTimes:30
+2019-07-22 12:01:36,846 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=districts, type=2
+2019-07-22 12:01:36,846 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=district, type=2
+2019-07-22 12:01:36,847 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts mcc=454
+2019-07-22 12:01:36,849 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,849 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,861 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 113.887327,22.429464 114.451463,22.157661
+2019-07-22 12:01:36,861 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,862 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,862 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 113.996274,22.504877 114.451463,22.429464
+2019-07-22 12:01:36,862 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,862 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,863 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 114.09056,22.532721 114.451463,22.504877
+2019-07-22 12:01:36,863 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,863 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,863 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 114.0759,22.519167 114.09056,22.504877
+2019-07-22 12:01:36,864 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,864 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,864 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 114.160384,22.547395 114.451463,22.532721
+2019-07-22 12:01:36,864 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,864 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,865 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 114.163986,22.556682 114.230981,22.547395
+2019-07-22 12:01:36,865 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,865 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,865 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 114.259546,22.558576 114.451463,22.547395
+2019-07-22 12:01:36,865 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,865 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,866 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 113.846541,22.273523 113.887327,22.198117
+2019-07-22 12:01:36,866 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,866 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=district, type=3
+2019-07-22 12:01:36,868 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,869 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=district, type=2
+2019-07-22 12:01:36,869 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts mcc=455
+2019-07-22 12:01:36,869 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,870 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,870 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 113.560459,22.203551 113.615076,22.112371
+2019-07-22 12:01:36,870 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,870 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,871 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 113.548529,22.168462 113.560674,22.150286
+2019-07-22 12:01:36,871 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,871 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,872 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 113.545646,22.195269 113.560459,22.168462
+2019-07-22 12:01:36,872 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,872 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,872 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 113.540193,22.195269 113.545646,22.175055
+2019-07-22 12:01:36,873 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,873 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,876 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 113.544721,22.216752 113.575192,22.195972
+2019-07-22 12:01:36,877 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,877 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,877 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 113.555195,22.219588 113.568454,22.216752
+2019-07-22 12:01:36,877 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,878 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=district, type=3
+2019-07-22 12:01:36,878 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,878 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=district, type=2
+2019-07-22 12:01:36,878 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts mcc=466
+2019-07-22 12:01:36,878 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,878 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,879 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 118.281556,24.534139 118.497437,24.385763
+2019-07-22 12:01:36,879 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,879 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,879 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 118.218962,24.457786 118.281556,24.403863
+2019-07-22 12:01:36,879 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,880 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,880 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 120.24518,25.342006 122.057314,21.875669
+2019-07-22 12:01:36,880 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,880 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,880 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 119.313242,24.280171 120.24518,22.274669
+2019-07-22 12:01:36,881 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,881 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,881 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 119.899871,26.19115 120.003356,26.132001
+2019-07-22 12:01:36,881 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,882 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 12:01:36,882 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts 119.953051,26.292773 120.080682,26.19115
+2019-07-22 12:01:36,882 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,882 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=district, type=3
+2019-07-22 12:01:36,882 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 12:01:36,883 DEBUG 7656 7688 OppoRomUpdateUtils loadDistricts name=districts, type=3
+2019-07-22 12:01:36,915 INFO  7656 7688 BootReceiver checkSoftSimStatus()
+2019-07-22 12:01:36,915 INFO  7656 7688 BootReceiver getSoftSimStatus false
+2019-07-22 12:01:39,919 INFO  7656 7688 BootReceiver onReceive() app exit
+2019-07-22 12:01:39,921 INFO  7656 7688 SoftSimConsole Stop softSimService result: false
+2019-07-22 15:48:20,540 INFO  7099 7099 PlatformUtil getPlatformManufacturer: qualcomm
+2019-07-22 15:48:20,541 INFO  7099 7099 TaskProcessor sTaskThread start
+2019-07-22 15:48:20,542 INFO  7099 7099 NetworkUtil networkInfo state is CONNECTED
+2019-07-22 15:48:20,546 INFO  7099 7099 RemoteConsole getLocaleFromCache: ID
+2019-07-22 15:48:20,555 INFO  7099 7099 Global The country code is ID
+2019-07-22 15:48:20,557 DEBUG 7099 7099 VersionUtil isMaster = false
+2019-07-22 15:48:20,562 INFO  7099 7099 DateUtil clearNetTime
+2019-07-22 15:48:20,565 DEBUG 7099 7099 LiteEngine clearUsingPilot
+2019-07-22 15:48:20,571 DEBUG 7099 7099 Global lastVersionCode:5100, currentVersionCode:5100
+2019-07-22 15:48:20,573 DEBUG 7099 7136 OppoRomUpdateUtils loadXmlValues：
+2019-07-22 15:48:20,573 DEBUG 7099 7136 OppoRomUpdateUtils getDataFromProvider
+2019-07-22 15:48:20,575 DEBUG 7099 7099 DateUtil saveNetTime 1563785300575;75177
+2019-07-22 15:48:20,578 DEBUG 7099 7099 OPPOLiteController getMcc(0) returned: 510
+2019-07-22 15:48:20,582 DEBUG 7099 7099 OPPOLiteController getMcc(1) returned: 510
+2019-07-22 15:48:20,583 INFO  7099 7099 NetworkUtil networkInfo state is CONNECTED
+2019-07-22 15:48:20,583 DEBUG 7099 7099 NetworkChangedReceiver mCurNetworkState: 1
+2019-07-22 15:48:20,613 DEBUG 7099 7136 OppoRomUpdateUtils cursor is null
+2019-07-22 15:48:20,617 DEBUG 7099 7136 OppoRomUpdateUtils get from local assets
+2019-07-22 15:48:20,618 DEBUG 7099 7136 OppoRomUpdateUtils PilotDisableMccList:[424, 620, 734, 748, 655, 740, 716, 730, 724, 722, 404, 405, 406, 414, 429, 452, 456, 413, 427, 432, 334, 732, 712, 706, 704, 710, 714, 602]
+2019-07-22 15:48:20,618 DEBUG 7099 7136 OppoRomUpdateUtils DisableDialogTypeList：[]
+2019-07-22 15:48:20,618 DEBUG 7099 7136 OppoRomUpdateUtils sAutoOpenPackageSupport=true
+2019-07-22 15:48:20,619 DEBUG 7099 7136 OppoRomUpdateUtils sAutoOpenPackage=true
+2019-07-22 15:48:20,619 DEBUG 7099 7136 OppoRomUpdateUtils sAutoOpenDisableList:[]
+2019-07-22 15:48:20,619 DEBUG 7099 7136 OppoRomUpdateUtils sAutoClosePackageSupport=true
+2019-07-22 15:48:20,619 DEBUG 7099 7136 OppoRomUpdateUtils sSystemSupportApp=true
+2019-07-22 15:48:20,620 DEBUG 7099 7136 OppoRomUpdateUtils sPayPalEnabled:true
+2019-07-22 15:48:20,620 DEBUG 7099 7136 OppoRomUpdateUtils sCalculteSppedTimes:30
+2019-07-22 15:48:20,620 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=districts, type=2
+2019-07-22 15:48:20,620 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=district, type=2
+2019-07-22 15:48:20,620 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts mcc=454
+2019-07-22 15:48:20,621 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,622 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,622 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 113.887327,22.429464 114.451463,22.157661
+2019-07-22 15:48:20,625 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,625 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,627 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 113.996274,22.504877 114.451463,22.429464
+2019-07-22 15:48:20,628 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,628 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,629 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 114.09056,22.532721 114.451463,22.504877
+2019-07-22 15:48:20,629 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,629 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,629 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 114.0759,22.519167 114.09056,22.504877
+2019-07-22 15:48:20,629 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,629 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,630 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 114.160384,22.547395 114.451463,22.532721
+2019-07-22 15:48:20,630 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,630 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,631 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 114.163986,22.556682 114.230981,22.547395
+2019-07-22 15:48:20,632 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,632 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,633 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 114.259546,22.558576 114.451463,22.547395
+2019-07-22 15:48:20,633 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,634 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,634 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 113.846541,22.273523 113.887327,22.198117
+2019-07-22 15:48:20,634 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,637 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=district, type=3
+2019-07-22 15:48:20,638 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,638 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=district, type=2
+2019-07-22 15:48:20,639 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts mcc=455
+2019-07-22 15:48:20,639 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,639 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,639 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 113.560459,22.203551 113.615076,22.112371
+2019-07-22 15:48:20,640 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,640 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,640 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 113.548529,22.168462 113.560674,22.150286
+2019-07-22 15:48:20,640 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,640 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,640 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 113.545646,22.195269 113.560459,22.168462
+2019-07-22 15:48:20,640 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,641 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,641 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 113.540193,22.195269 113.545646,22.175055
+2019-07-22 15:48:20,641 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,641 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,641 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 113.544721,22.216752 113.575192,22.195972
+2019-07-22 15:48:20,641 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,642 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,642 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 113.555195,22.219588 113.568454,22.216752
+2019-07-22 15:48:20,642 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,642 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=district, type=3
+2019-07-22 15:48:20,642 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,642 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=district, type=2
+2019-07-22 15:48:20,642 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts mcc=466
+2019-07-22 15:48:20,643 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,643 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,643 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 118.281556,24.534139 118.497437,24.385763
+2019-07-22 15:48:20,644 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,644 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,646 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 118.218962,24.457786 118.281556,24.403863
+2019-07-22 15:48:20,647 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,648 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,648 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 120.24518,25.342006 122.057314,21.875669
+2019-07-22 15:48:20,649 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,649 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,649 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 119.313242,24.280171 120.24518,22.274669
+2019-07-22 15:48:20,650 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,651 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,651 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 119.899871,26.19115 120.003356,26.132001
+2019-07-22 15:48:20,652 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,652 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=rect, type=2
+2019-07-22 15:48:20,652 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts 119.953051,26.292773 120.080682,26.19115
+2019-07-22 15:48:20,653 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,653 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=district, type=3
+2019-07-22 15:48:20,653 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=null, type=4
+2019-07-22 15:48:20,653 DEBUG 7099 7136 OppoRomUpdateUtils loadDistricts name=districts, type=3
+2019-07-22 15:48:20,660 INFO  7099 7136 BootReceiver checkSoftSimStatus()
+2019-07-22 15:48:20,660 INFO  7099 7136 BootReceiver getSoftSimStatus false
+2019-07-22 15:48:23,664 INFO  7099 7136 BootReceiver onReceive() app exit
+2019-07-22 15:48:23,671 INFO  7099 7136 SoftSimConsole Stop softSimService result: false
